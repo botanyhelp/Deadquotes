@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            tools:context=".Deadquotes" >
+
+            <TextView
+                android:id="@+id/txt_quotedata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/quotedata" />
+
+            <EditText
+                android:id="@+id/txt_quote"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/btn_searchforquotes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickQuote"
+                android:text="@string/searchforquotes" />
+
+            <TextView
+                android:id="@+id/txt_searchforspeakers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/searchforspeakers" />
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawSelectorOnTop="true" />
+
+
+            <Button
+                android:id="@+id/btn_allquotes"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:onClick="onClickAllQuotes"
+                android:text="@string/allquotes" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

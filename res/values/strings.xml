@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dead Quotes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchforquotes">Search for quotes</string>
+    <string name="allquotes">Get all quotes</string>
+    <string name="searchforspeakers">Speaker (or spoken about)</string>
+    <string name="quotedata">Quote data</string>
+
+    <string-array name="speakers">
+        <item>Abraham Lincoln</item>
+        <item>Albert Einstein</item>
+        <item>Albert Einstein, July 7, 1921</item>
+        <item>Alexis de Tocqueville</item>
+        <item>Alices Adventures in Wonderland</item>
+        <item>Andrew Weil</item>
+        <item>Andrew Weil, 1972</item>
+        <item>Animesh Karna</item>
+        <item>Arthur Dent</item>
+        <item>Barry Smith</item>
+        <item>Bill Monroe, Free Born Man</item>
+        <item>Bullwinkle and Rocky</item>
+        <item>Bullwinkle J. Moose</item>
+        <item>Captain, B Ark, Golgafrincham Evacuation Fleet</item>
+        <item>Change in My Life (Leap of Faith)</item>
+        <item>Charles Scripter</item>
+        <item>Charlie Uncle Chuck Fechter</item>
+        <item>Christopher Morton</item>
+        <item>Come a Long Way</item>
+        <item>Dale Gieringer, California Drug Policy Reform Coalition</item>
+        <item>Dan Sorenson</item>
+        <item>Dave Barry</item>
+        <item>Dave C. Lefevre</item>
+        <item>David ZZYZX Steinberg</item>
+        <item>Dennis Miller</item>
+        <item>Dennis Rohatyn</item>
+        <item>Derek Tearn</item>
+        <item>Desiderata</item>
+        <item>Dom Helder Camara</item>
+        <item>Douglas Adams</item>
+        <item>Dr. David Smith</item>
+        <item>Ed Meese, US News</item>
+        <item>Edmund Blackadder, ca. 1805</item>
+        <item>Elliot S! Maggin</item>
+        <item>Eric E. Snyder</item>
+        <item>ex-Vice President Dan Quayle</item>
+        <item>Frankie Mouse</item>
+        <item>Frank Lloyd Wright</item>
+        <item>Fred McCall</item>
+        <item>Garrison Keillor</item>
+        <item>George Orwell, Animal Farm</item>
+        <item>God</item>
+        <item>Grace Slick</item>
+        <item>Greg Morrow</item>
+        <item>Guy Kawasaki</item>
+        <item>Haul Down the Sails</item>
+        <item>Heavy Metal</item>
+        <item>Hitchhikers Guide to the Galaxy</item>
+        <item>Hunter S. Thompson</item>
+        <item>James Joyce</item>
+        <item>Jann S. Wenner, Rolling Stone</item>
+        <item>Jim Dyer</item>
+        <item>Jimmy Carter, May 4 1974, University of Georgia</item>
+        <item>J.M. Barrie</item>
+        <item>Joe Brust</item>
+        <item>Joe Chew</item>
+        <item>Joey Harris, Rebel Alliance/Knee Deep in Come</item>
+        <item>John Chambers</item>
+        <item>Justice Anthony Kennedy, in 91-155</item>
+        <item>Keith Lewis</item>
+        <item>Keith Lynch</item>
+        <item>Ki No Tsurayuki</item>
+        <item>Larry Gonick</item>
+        <item>Malcolm the Troll, aka Rory Keating</item>
+        <item>Mark Graham, New Age Guy</item>
+        <item>Mark Graham, The Big Band Theory</item>
+        <item>Marvin the Paranoid Android</item>
+        <item>Meat Loaf (Paradise by the Dashboard Lights)</item>
+        <item>Mike Royko</item>
+        <item>Morgan Mussell</item>
+        <item>Mr. Nobody</item>
+        <item>Nanci Griffith, If Wishes Were Changes</item>
+        <item>Nanci Griffith, Storms</item>
+        <item>Oscar Wilde</item>
+        <item>Paul Haeger</item>
+        <item>Philip K. Dick</item>
+        <item>Pittsburgh Press</item>
+        <item>P. J. ORourke</item>
+        <item>Pooh</item>
+        <item>Robin Williams</item>
+        <item>Rolling Stone, December 12th-16th, 1991</item>
+        <item>Roosevelt</item>
+        <item>Rostover</item>
+        <item>Russell Turpin</item>
+        <item>Samuel Adams</item>
+        <item>Sexton Furnival</item>
+        <item>Shafti, the Airborne Deranger</item>
+        <item>Shock Treatment</item>
+        <item>sign in a Westfield, NJ jewelry store</item>
+        <item>S. J. Perelman</item>
+        <item>Slartibartfast</item>
+        <item>Stanislaw Lem</item>
+        <item>Stephen Mathers</item>
+        <item>Stephen Wright</item>
+        <item>Steven Wright</item>
+        <item>St. Stephen (Grateful Dead)</item>
+        <item>Suma Genji</item>
+        <item>Supreme Court Justice Louis D. Brandeis,</item>
+        <item>Tamara Skaredoff</item>
+        <item>Ted Turner</item>
+        <item>The Beatles</item>
+        <item>The Economist, 12/23/89</item>
+        <item>The Great Zaganza</item>
+        <item>The Hitchhikers Guide to the Galaxy</item>
+        <item>The House at Pooh Corner</item>
+        <item>The Toys</item>
+        <item>Thomas Jefferson</item>
+        <item>Thomas Jefferson, 1821</item>
+        <item>Thomas Szasz</item>
+        <item>Vroomfondel, AUPSLOPTP</item>
+        <item>Waltzing Mathilda</item>
+        <item>Wayne Bledsoe</item>
+        <item>Wendy Moira Angela Darling</item>
+        <item>Windmill</item>
+        <item>Winnie-the-Pooh</item>
+        <item>Winnie-The-Pooh</item>
+        <item>Zaphod Beeblebrox</item>
+        <item>zen Vice President Dan Quayle</item>
+    </string-array>
+
+</resources>
